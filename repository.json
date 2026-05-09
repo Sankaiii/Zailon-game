@@ -1,4 +1,7 @@
 {
+  "name": "Zailon game manifests",
+  "description": "Addon manifests for TwintailLauncher - adds Neverness to Everness",
+  "maintainers": ["Sankaiii"],
   "manifests": [
     "nte_global.json"
   ]
