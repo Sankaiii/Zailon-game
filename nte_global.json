@@ -14,8 +14,8 @@
         "res_list_url": ""
       },
       "assets": {
-        "game_icon": "",
-        "game_background": "",
+        "game_icon": "https://raw.githubusercontent.com/Sankaiii/Zailon-game/main/assets/nte_icon.png",
+        "game_background": "https://raw.githubusercontent.com/Sankaiii/Zailon-game/main/assets/nte_background.jpg",
         "game_live_background": ""
       },
       "game": {
@@ -44,8 +44,8 @@
     "screenshot_dir_relative_to": ""
   },
   "assets": {
-    "game_icon": "",
-    "game_background": "",
+    "game_icon": "https://raw.githubusercontent.com/Sankaiii/Zailon-game/main/assets/nte_icon.png",
+    "game_background": "https://raw.githubusercontent.com/Sankaiii/Zailon-game/main/assets/nte_background.jpg",
     "game_live_background": ""
   },
   "extra": {
