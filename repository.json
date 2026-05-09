@@ -3,6 +3,15 @@
   "description": "Addon manifests for TwintailLauncher - adds Neverness to Everness",
   "maintainers": ["Sankaiii"],
   "manifests": [
+    "aethergazer_global.json",
+    "bh3_global.json",
+    "endfield_global.json",
+    "hk4e_global.json",
+    "hkrpg_global.json",
+    "nap_global.json",
+    "pgr_global.json",
+    "sdsgc_global.json",
+    "wuwa_global.json",
     "nte_global.json"
   ]
 }
