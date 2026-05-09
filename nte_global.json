@@ -1,0 +1,11 @@
+{
+  "name": "Neverness to Everness (Global)",
+  "biz": "nte_global",
+  "exe": "NTE.exe",
+  "installDir": "Neverness to Everness",
+  "installerWindowsUrl": "https://ntecdn2.perfectworld.com/clientRes/installer-Global/YH_Singapore_common_setup_1.0.6.0423_20260424.exe",
+  "version": "1.0.6",
+  "icon": "",
+  "background": "",
+  "installMode": "useExisting"
+}
